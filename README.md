@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to dark7wind Pages
 
 You can use the [editor on GitHub](https://github.com/dark7wind/dark7wind.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
