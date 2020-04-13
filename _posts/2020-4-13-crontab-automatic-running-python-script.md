@@ -1,4 +1,4 @@
-## What is cron and crontab
+# What is cron and crontab
 __Cron__: The software utility cron is a time-based job scheduler in Unix-like
 computer operating systems. Users that set up and maintain software environments
 use cron to schedule jobs (commands or shell scripts) to run periodically at
@@ -15,7 +15,7 @@ a subdirectory of /etc) that only system administrators can edit.
 
 
 
-## Automatic running the Python script
+# Automatic running the Python script
 __Operating system__: Ubuntu 18.04.3 LTS
 
 __Preparation__: Check the Python script *e.g. test.py*
@@ -54,7 +54,7 @@ username@mypc:~$ cd /var/mail
 username@mypc:/var/mail$ nano $USERNAME
 ```
 
-#### Reference
+### Reference
 1. https://en.wikipedia.org/wiki/Cron
 2. https://www.youtube.com/watch?v=kL5rmcxwgSs
 3. https://medium.com/@gavinwiener/how-to-schedule-a-python-script-cron-job-dea6cbf69f4e
